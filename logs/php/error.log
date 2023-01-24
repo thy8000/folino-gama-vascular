@@ -1,0 +1,45 @@
+[24-Jan-2023 02:36:18 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "it9_folino_add_custom_logo" not found or invalid function name in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#3 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-config.php(91): require_once('C:\\Users\\ACER\\D...')
+#4 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-load.php(50): require_once('C:\\Users\\ACER\\D...')
+#5 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-blog-header.php(13): require_once('C:\\Users\\ACER\\D...')
+#6 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\index.php(17): require('C:\\Users\\ACER\\D...')
+#7 {main}
+  thrown in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php on line 308
+[24-Jan-2023 02:36:20 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "it9_folino_add_custom_logo" not found or invalid function name in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-settings.php(595): do_action('after_setup_the...')
+#3 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-config.php(91): require_once('C:\\Users\\ACER\\D...')
+#4 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-load.php(50): require_once('C:\\Users\\ACER\\D...')
+#5 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-blog-header.php(13): require_once('C:\\Users\\ACER\\D...')
+#6 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\index.php(17): require('C:\\Users\\ACER\\D...')
+#7 {main}
+  thrown in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php on line 308
+[24-Jan-2023 02:37:08 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "it9_folino_add_main_menu" not found or invalid function name in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-settings.php(617): do_action('init')
+#3 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-config.php(91): require_once('C:\\Users\\ACER\\D...')
+#4 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-load.php(50): require_once('C:\\Users\\ACER\\D...')
+#5 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-blog-header.php(13): require_once('C:\\Users\\ACER\\D...')
+#6 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\index.php(17): require('C:\\Users\\ACER\\D...')
+#7 {main}
+  thrown in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php on line 308
+[24-Jan-2023 02:37:10 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "it9_folino_add_main_menu" not found or invalid function name in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-settings.php(617): do_action('init')
+#3 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-config.php(91): require_once('C:\\Users\\ACER\\D...')
+#4 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-load.php(50): require_once('C:\\Users\\ACER\\D...')
+#5 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-blog-header.php(13): require_once('C:\\Users\\ACER\\D...')
+#6 C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\index.php(17): require('C:\\Users\\ACER\\D...')
+#7 {main}
+  thrown in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-hook.php on line 308
+[24-Jan-2023 03:29:52 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ACER\Documents\IT9\Local\folino-gama-vascular\app\public\wp-includes\class-wp-customize-widgets.php on line 900
