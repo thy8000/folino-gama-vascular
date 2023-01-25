@@ -3,3 +3,4 @@
 @tailwind utilities;
 
 @import 'tailwind/tailwind.css';
+@import 'global/defaults.css';
